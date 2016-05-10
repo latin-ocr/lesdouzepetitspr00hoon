@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesdouzepetitspr00hoon/lesdouzepetitspr00hoon_0003.png"; bbox 0 0 1688 2631; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 407 140 1306 219">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 407 140 1306 219">
+     <span class='ocr_line' id='line_1_1' title="bbox 407 140 1306 219; baseline 0 -26"><span class='ocrx_word' id='word_1_1' title='bbox 407 141 534 193; x_wconf 68' lang='grc' dir='ltr'>ΜΗ</span> <span class='ocrx_word' id='word_1_2' title='bbox 555 140 808 213; x_wconf 72' lang='grc' dir='ltr'>ΚΕΟΕΕΜΕΒ</span> <span class='ocrx_word' id='word_1_3' title='bbox 942 142 1043 201; x_wconf 76' lang='grc' dir='ltr'>ΑΒΥ,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1074 140 1306 219; x_wconf 60' lang='lat' dir='ltr'>wmfljm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 684 198 1350 431">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 684 198 1350 431">
+     <span class='ocr_line' id='line_1_2' title="bbox 684 198 1350 431; baseline 0.012 -39"><span class='ocrx_word' id='word_1_5' title='bbox 684 241 816 369; x_wconf 42' lang='grc' dir='ltr'>’ἕ</span> <span class='ocrx_word' id='word_1_6' title='bbox 963 198 1250 431; x_wconf 45' lang='lat' dir='ltr'>{ssss</span> <span class='ocrx_word' id='word_1_7' title='bbox 1266 315 1284 325; x_wconf 73' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1336 292 1350 371; x_wconf 58' lang='lat'>²³</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 483 992 869 1380">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 483 992 869 1380">
+     <span class='ocr_line' id='line_1_3' title="bbox 483 992 869 1380; baseline 0 1251"><span class='ocrx_word' id='word_1_9' title='bbox 483 992 869 1380; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
